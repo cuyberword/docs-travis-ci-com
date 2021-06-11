@@ -207,7 +207,7 @@ language: go
 If you have tests that need to run on macOS or your project uses Swift or
 Objective-C, use our macOS environment:
 
-```yaml
+```yamlc++
 os: osx
 ```
 {: data-file=".travis.yml"}
